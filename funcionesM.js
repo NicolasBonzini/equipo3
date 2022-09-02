@@ -4,3 +4,9 @@ function nico(){
 }
 
 nico();
+
+function nico2(){
+return NaN;
+}
+
+nico2();
