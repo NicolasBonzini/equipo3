@@ -1,1 +1,6 @@
-console.log("Este es un texto un poco mas largo para probar mayores funcionalidades de GitHub del equipo 3");
+
+function nico(){
+    return NetworkInformation;
+}
+
+nico();
